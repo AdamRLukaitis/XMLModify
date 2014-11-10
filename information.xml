@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<class>
+<Student>
+<name> Chris </name>
+<address> 1313 Mockingbird Lane </address>
+<phone> 555-1313 </phone>
+<sex> Female </sex>
+</Student> 
+<Student>
+<name> Cody </name>
+<address> 211 Pine Street </address>
+<phone> 555-9089 </phone>
+<sex> Male </sex>
+</Student> 
+</class>
